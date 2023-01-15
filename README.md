@@ -2,10 +2,11 @@
 
 ## By @doc-code-hub
 
-Resolution: `4250x4250`
-Aspect ratio: `1:1`
-Main project file: `Energy Tunnel - Swirls.xcf`
-Main project file size: `1.6 GB`
+*Original project, not here for size reasons (here there is a resized ~75Mb version of the project)*
+- Resolution: `4250x4250`  
+- Aspect ratio: `1:1`  
+- Main project file: `Energy Tunnel - Swirls.xcf`  
+- Main project file size: `1.6 GB`  
 
 ![Alt text](export/Energy%20Tunnel%20-%20sm%202.png)
 
